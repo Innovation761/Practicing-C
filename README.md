@@ -1,2 +1,2 @@
-# Practicing-C
-This is where I practice C.
+# C语言练习
+2020年11月9号，我第一学期期中考试大失败，特来此纪念，并以此勉励自己。
